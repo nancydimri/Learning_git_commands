@@ -1,0 +1,5 @@
+git branch branch_name
+git branch -m old_branch_name new_branch_name   -- This is command is used to rename the branch in one shot .
+Other method to rename the branch is to first go inside the branch then renameit . For this follow the steps --
+step 1 - git checkout branch_name_old
+step 2 - git branch -m olde_branch_name 
