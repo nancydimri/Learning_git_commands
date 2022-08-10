@@ -1,0 +1,5 @@
+git commit -m "write your commit"
+git log 
+git remote 
+git status 
+git add 
